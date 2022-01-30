@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_My **Skills** are:_
+1.*Dancing*
+2.*Singing*
+3.*Baking*
+4.*Reading*
